@@ -1,7 +1,7 @@
 # WeatherApp
 :cloud: Simple Weather App
 
-:hammer: :wrench: : Built With HTML , CSS , JavaScript
+:wrench: : Built With HTML , CSS , JavaScript
 
 :pushpin: Live Site : 
 
